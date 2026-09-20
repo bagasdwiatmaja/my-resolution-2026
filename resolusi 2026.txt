@@ -2,4 +2,3 @@
 - pro player
 - trader
 - investor
-

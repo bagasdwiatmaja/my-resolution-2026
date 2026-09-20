@@ -1,0 +1,4 @@
+- photographer
+- pro player
+- trader
+- investor

@@ -2,3 +2,4 @@
 - pro player
 - trader
 - investor
+- beryanyi

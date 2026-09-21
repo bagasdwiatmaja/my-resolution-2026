@@ -2,3 +2,5 @@
 - makan
 - mandi
 - kuliah
+- mandi
+- tidur
